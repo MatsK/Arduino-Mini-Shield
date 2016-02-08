@@ -2,46 +2,38 @@
 Thumbs.db
 ehthumbs.db
 
-# Folder config file
-Desktop.ini
+# Ignore list for Eagle, a PCB layout tool
 
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
+# Backup files
+*.s#?
+*.b#?
+*.l#?
 
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
+# Eagle project file
+# It contains a serial number and references to the file structure on your computer.
+# comment the following line if you want to have your project file included.
+eagle.epf
 
-# Windows shortcuts
-*.lnk
+# CAM files
+*.$$$
+*.cmp
+*.ly2
+*.l15
+*.sol
+*.plc
+*.stc
+*.sts
+*.crc
+*.crs
 
-# =========================
-# Operating System Files
-# =========================
+*.dri
+*.drl
+*.gpi
+*.pls
 
-# OSX
-# =========================
+*.drd
+*.drd.*
 
-.DS_Store
-.AppleDouble
-.LSOverride
+*.info
 
-# Thumbnails
-._*
-
-# Files that might appear in the root of a volume
-.DocumentRevisions-V100
-.fseventsd
-.Spotlight-V100
-.TemporaryItems
-.Trashes
-.VolumeIcon.icns
-
-# Directories potentially created on remote AFP share
-.AppleDB
-.AppleDesktop
-Network Trash Folder
-Temporary Items
-.apdisk
+*.eps

@@ -396,10 +396,11 @@
 <wire x1="68.58" y1="0" x2="68.58" y2="43.18" width="0.1524" layer="98" style="dashdot"/>
 <wire x1="68.58" y1="43.18" x2="0" y2="43.18" width="0.1524" layer="98" style="dashdot"/>
 <wire x1="0" y1="43.18" x2="0" y2="0" width="0.1524" layer="98" style="dashdot"/>
-<text x="2.54" y="30.48" size="1.778" layer="98">Arduino Mini Shield
+<text x="2.54" y="27.94" size="1.778" layer="98">Arduino Mini Shield
 PCB Version 2016-01-07
 (c) Mats Karlsson
-http://www.rlsson.eu/arduino</text>
+http://www.rlsson.eu/arduino
+https://github.com/MatsK/Arduino-Mini-Shield</text>
 </plain>
 <instances>
 <instance part="JP1" gate="A" x="5.08" y="10.16" rot="MR0"/>
