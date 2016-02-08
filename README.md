@@ -6,6 +6,6 @@ If you don't need a full size "Arduino Shield" I have made a Mini shield that ju
 
 
 ## Pictures
-![Schematic](https://github.com/MatsK/Arduino-Mini-Shield/blob/master/Doc/Schematic.png "Schematic")
+![Schematic](https://github.com/MatsK/Arduino-Mini-Shield/blob/master/Schematic.png "Schematic")
 
-![PCB](https://github.com/MatsK/Arduino-Mini-Shield/blob/master/Doc/PCB.png "PCB")
+![PCB](https://github.com/MatsK/Arduino-Mini-Shield/blob/master/PCB.png "PCB")
