@@ -12,7 +12,7 @@ A blank template.
 
 ### HC-06_Arduino_UNO_Adapter.sch/.brd
 
-Bluetooth HC06 shield
+Bluetooth HC06 shield. Note! Untested. Boards ordered from OSHpark ETA 2016-02-23
 
 ## Pictures
 ![Schematic](https://github.com/MatsK/Arduino-Mini-Shield/blob/master/Schematic.png "Schematic")

@@ -118,26 +118,26 @@
 </layers>
 <board>
 <plain>
-<wire x1="45.8398" y1="0.0254" x2="0.58586875" y2="0.0254" width="0" layer="20"/>
-<wire x1="51.25" y1="5.334" x2="51.25" y2="19.3309" width="0" layer="20"/>
-<wire x1="51.25" y1="19.3309" x2="50.8055" y2="19.75" width="0" layer="20" curve="90"/>
-<wire x1="50.8055" y1="19.75" x2="5.3975" y2="19.75" width="0" layer="20"/>
-<wire x1="51.25" y1="5.334" x2="45.8398" y2="0.0254" width="0" layer="20" curve="-90"/>
-<wire x1="5.3975" y1="19.75" x2="0" y2="14.3525" width="0" layer="20" curve="90"/>
-<wire x1="0" y1="14.3525" x2="0" y2="0.530453125" width="0" layer="20"/>
-<wire x1="0" y1="0.530453125" x2="0.529465625" y2="0.0233625" width="0" layer="20" curve="94.847881"/>
+<wire x1="45.8398" y1="0.0254" x2="0.58586875" y2="0.0254" width="0.254" layer="20"/>
+<wire x1="51.25" y1="5.334" x2="51.25" y2="19.3309" width="0.254" layer="20"/>
+<wire x1="51.25" y1="19.3309" x2="50.8055" y2="19.75" width="0.254" layer="20" curve="90"/>
+<wire x1="50.8055" y1="19.75" x2="5.3975" y2="19.75" width="0.254" layer="20"/>
+<wire x1="51.25" y1="5.334" x2="45.8398" y2="0.0254" width="0.254" layer="20" curve="-90"/>
+<wire x1="5.3975" y1="19.75" x2="0" y2="14.3525" width="0.254" layer="20" curve="90"/>
+<wire x1="0" y1="14.3525" x2="0" y2="0.530453125" width="0.254" layer="20"/>
+<wire x1="0" y1="0.530453125" x2="0.529465625" y2="0.0233625" width="0.254" layer="20" curve="94.847881"/>
 <text x="45.333" y="12.666" size="0.8128" layer="25">GND</text>
 <text x="45.341" y="7.76" size="0.8128" layer="25">3.3V</text>
-<text x="3.5" y="11.242" size="0.8128" layer="25">D9</text>
-<text x="3.504" y="13.742" size="0.8128" layer="25">D8</text>
-<text x="3.5" y="6.127" size="0.8128" layer="25">D11</text>
-<text x="3.5" y="3.623" size="0.8128" layer="25">D12</text>
-<text x="3.504" y="1.119" size="0.8128" layer="25">D13</text>
-<text x="6.74" y="15.34" size="0.6096" layer="25">Arduino Mini Shield
+<text x="3.246" y="11.2928" size="0.8128" layer="25">D9</text>
+<text x="3.25" y="13.7928" size="0.8128" layer="25">D8</text>
+<text x="3.246" y="6.1778" size="0.8128" layer="25">D11</text>
+<text x="3.246" y="3.6738" size="0.8128" layer="25">D12</text>
+<text x="3.25" y="1.1698" size="0.8128" layer="25">D13</text>
+<text x="5.9272" y="15.721" size="0.6096" layer="25">Arduino Mini Shield
 PCB Version 2016-01-07
 (c) Mats Karlsson
 http://www.rlsson.eu/arduino</text>
-<text x="3.5" y="8.667" size="0.8128" layer="25">D10</text>
+<text x="3.246" y="8.7178" size="0.8128" layer="25">D10</text>
 <text x="45.333" y="15.206" size="0.8128" layer="25">GND</text>
 <text x="45.341" y="10.3" size="0.8128" layer="25">5V</text>
 <text x="45.333" y="17.746" size="0.8128" layer="25">Vin</text>
